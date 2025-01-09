@@ -8,7 +8,8 @@
    cd ily76
 echo "Initialisation du projet..."
 
-# Naviguer dans le répertoire 
+# Naviguer dans le répertoire
+mkdir ily76
 cd ily76 || exit
 
 # Créer le fichier package.json
