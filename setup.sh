@@ -3,6 +3,7 @@
 echo "Initialisation du projet..."
 
 # Naviguer dans le répertoire ily76
+mkdir ily76
 cd ily76 || exit
 
 # Créer le fichier package.json
