@@ -1,9 +1,15 @@
 #!/bin/bash
 
+# Requirements for MonProjet
+
+## Installation Instructions
+
+   git clone https://github.com/milyes/ily76.git
+   cd ily76
 echo "Initialisation du projet..."
 
 # Naviguer dans le répertoire ily76
-mkdir ily76
+pm
 cd ily76 || exit
 
 # Créer le fichier package.json
