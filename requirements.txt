@@ -1,0 +1,5 @@
+### Ajouter un fichier `requirements.txt` au projet :
+
+1. **Créer et modifier `requirements.txt`** :
+   ```sh
+   nano requirements.txt
