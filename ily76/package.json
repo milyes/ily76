@@ -1,0 +1,16 @@
+{
+  "name": "ily76",
+  "version": "1.0.0",
+  "description": "Projet backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "bcrypt": "^5.0.1",
+    "fs": "0.0.1-security",
+    "uuid": "^8.3.2"
+  }
+}
