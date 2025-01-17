@@ -12,5 +12,6 @@
     "bcrypt": "^5.0.1",
     "fs": "0.0.1-security",
     "uuid": "^8.3.2"
-  }
+  },
+  "private": true
 }
