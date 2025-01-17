@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmonprojet=self.webpackChunkmonprojet||[]).push([[128],{128:(e,n,s)=>{s.r(n),s.d(n,{default:()=>o});s(43);var t=s(579);const o=()=>(0,t.jsx)("div",{children:"Contenu Lazy"})}}]);
+//# sourceMappingURL=128.d0aa9b6b.chunk.js.map

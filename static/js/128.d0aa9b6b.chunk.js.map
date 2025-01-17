@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/128.d0aa9b6b.chunk.js","mappings":"qJAEA,MAMA,EANsBA,KACpBC,EAAAA,EAAAA,KAAA,OAAAC,SAAK,gB","sources":["components/LazyComponent.js"],"sourcesContent":["import React from 'react';\n\nconst LazyComponent = () => (\n  <div>\n    Contenu Lazy\n  </div>\n);\n\nexport default LazyComponent;\n"],"names":["LazyComponent","_jsx","children"],"sourceRoot":""}
