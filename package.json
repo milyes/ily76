@@ -1,7 +1,7 @@
 {
   "name": "monprojet",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://milyes.github.io/ily76/monprojet",
   "scripts": {
     "start": "react-scripts start",
