@@ -1,0 +1,9 @@
+import React from 'react';
+
+const LazyComponent = () => (
+  <div>
+    Contenu Lazy
+  </div>
+);
+
+export default LazyComponent;
