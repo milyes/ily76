@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ily76/static/css/main.f855e6bc.css",
+    "main.js": "/ily76/static/js/main.6315a22a.js",
+    "static/media/logo.svg": "/ily76/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ily76/index.html",
+    "main.f855e6bc.css.map": "/ily76/static/css/main.f855e6bc.css.map",
+    "main.6315a22a.js.map": "/ily76/static/js/main.6315a22a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6315a22a.js"
+  ]
+}
